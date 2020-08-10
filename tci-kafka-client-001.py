@@ -84,16 +84,3 @@ while True:
 
 out_file.close()
 consumer.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
