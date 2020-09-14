@@ -1,4 +1,4 @@
-# Kafka_Client_Python
+# Kafka Client Python
 Python Kafka Client with AVRO and Schemaregistery
 
 Zwei einfache Kafka Clients in Python mit AVRO und Schemaregistery Anbindung.
